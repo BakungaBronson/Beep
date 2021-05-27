@@ -10,7 +10,3 @@ Beep is a python3 program that uses toast notifications to inform the user when 
 
 ## Requirements
 This python program uses two libraries namely: psutil and win10toast_click. Both can be installed using pip with the "pip install psutil" and "pip install win10toast_click" commands respectively. If you however use the windows executable there is no need to install the above dependencies because they are bundled into the executable.
-
-## Recommended Step After Installation
-Executing the program will have it run in the background until the computer shuts down, to make it run automatically
-
